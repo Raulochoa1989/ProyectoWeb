@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda en linea</title>
+    <link rel="stylesheet" href="/css/estilosproducto.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+</head>
+<body>
+    <div class="contenedor" id="2">
+        <div class="barra">
+            <p>Atencion al cliente: 0412-5471508 | formulasquimicas8a@gmail.com</p>
+            <h2>Bienvenidos a nuestra tienda virtual</h2>
+            <p>Delivery gratis segun la zona de despacho consulte!!</p>
+        </div>
+       
+        <div class="banner">
+                <div class="logo"><a href="inicio.html"><img src="recursos/Imagenes/logo.png" alt=""></a></div>
+                <div class="bannertexto"><a href="tienda.html">Volver a la tienda</a></div>
+                <div class="bcv">
+                    <img src="recursos/Imagenes/bcv.jpeg" alt="">
+                    <p>Tasa de cambio del dia:</p>
+                    <p id="tasa_cambio">00,00</p>
+                    <p>Bs/USD</p>
+                </div>
+        </div>
+        <div class="producto" id="titulo"></div>
+        <div class="cuerpo">
+            <div class="imagen" id="imagen"></div>
+            <div class="precio">
+                <p>Precio unitario Ref.</p><p id="refproducto">00.00</p>
+                <p>Precio unitario Bs.</p><p id="precio">00.00</p>
+            </div>
+            <div class="descripcion"></div>
+            <form class="selector">
+                <select>
+                    <option disabled selected>-- Seleccione fragancia--</option>
+                    <option>Limon</option>
+                    <option>Manzana verde</option>
+                    <option>Neutro</option>
+                </select>
+                
+            </form>
+            <input class="cantidad" type="number" placeholder="Cantidad" min="1">
+                <button class="btnagregar" id="agregar_carrito">Agregar al carrito</button>
+
+        </div>
+       
+       <div class="piepagina">
+            <p>2024 © Formulas quimicas 8A, C.A. | derechos de imagen reservados | diseño y maquetación: Raul Ochoa y Raul Perez para academia logros curso de programacion 11927</p>
+       </div>
+       
+
+    </div>
+    <script src="js/prueba.js"></script>
+</body>
+</html>

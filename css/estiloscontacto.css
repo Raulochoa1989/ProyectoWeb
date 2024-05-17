@@ -1,0 +1,146 @@
+
+.contenedor{
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    box-sizing: border-box;
+}
+
+/*Estilos de la barra superior*/
+
+.barra{
+    display: flex;
+    background-color: #00A7E1;
+    height: 5%;
+    align-items: center;
+    justify-content: center;
+}
+.barra > p{
+    color: #fff;
+   font-size: 1.2em;
+   margin-left: 5%;
+   margin-right: 5%;
+}
+.barra > a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2em;
+    align-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-height: 100%;
+}
+.barra > a:hover{
+    background-color: #E5F6FC;
+    color: black;
+}
+/*Estilos del banner*/
+
+.banner{
+    display: flex;
+}
+.logo{
+    margin-left: 20%;
+    margin-top: 1%;
+}
+.bannertexto{
+    margin-left: 10%;
+    font-size: xx-large;
+}
+
+/*Estilos del cuerpo*/
+
+.cuerpo{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto;
+}
+.form{
+    grid-column: 2/3;
+    grid-row: 1/3;
+}
+.form button{
+    width: 30%;
+    margin: 0% 35%;
+    background-color: #00A7E1;
+    border: none;
+    color: #fff;
+    border-radius: 3%;
+    height: 50px;
+    font-size: x-large;
+}
+.form button:hover{
+    background-color:aqua;
+    cursor: pointer;
+    color: black;
+}
+.form h3{
+    text-align: center;
+    font-size: xx-large;
+}
+.form ul{
+    margin-top: 1%;
+}
+.form li{
+    display: flex;
+    width: 80%;
+    margin: 3% 10%;
+}
+.form span{
+    color: #00A7E1;
+    margin-right: 5%;
+}
+.form input{
+    text-align: center;
+    width: 100%;
+}
+.msj{
+    text-align:left;
+    height: 200px;
+}
+
+.redessociales img{
+    margin: 0% 8.5%;
+}
+.contacto{
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.contacto span{
+    color: #00A7E1;
+}
+.contacto li{
+    width: 90%;
+    margin: 0% 5%;
+    display: flex;
+}
+.contacto p{
+    font-weight: bold;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.mapa{ 
+    padding: 0% 0.2% 0% 0%;
+    width: 76%;
+    margin: 5% 12% 10% 12%;
+    border-style: solid;
+    border-color: #00A7E1;
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+
+
+/*Estilos del pie de pagina*/
+
+.piepagina{
+    background-color: #00A7E1;
+    height: 10%;
+    margin-bottom: -2%;
+}
+.piepagina > p{
+    color: #fff;
+    text-align: center;
+    font-size: 1.3em;
+    padding: 1%;
+}
