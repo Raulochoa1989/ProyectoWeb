@@ -1,0 +1,198 @@
+edicion prueba
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .git (1)/HEAD
+#	new file:   .git (1)/config
+#	new file:   .git (1)/description
+#	new file:   .git (1)/desktop.ini
+#	new file:   .git (1)/hooks/applypatch-msg.sample
+#	new file:   .git (1)/hooks/commit-msg.sample
+#	new file:   .git (1)/hooks/desktop.ini
+#	new file:   .git (1)/hooks/fsmonitor-watchman.sample
+#	new file:   .git (1)/hooks/post-update.sample
+#	new file:   .git (1)/hooks/pre-applypatch.sample
+#	new file:   .git (1)/hooks/pre-commit.sample
+#	new file:   .git (1)/hooks/pre-merge-commit.sample
+#	new file:   .git (1)/hooks/pre-push.sample
+#	new file:   .git (1)/hooks/pre-rebase.sample
+#	new file:   .git (1)/hooks/pre-receive.sample
+#	new file:   .git (1)/hooks/prepare-commit-msg.sample
+#	new file:   .git (1)/hooks/push-to-checkout.sample
+#	new file:   .git (1)/hooks/sendemail-validate.sample
+#	new file:   .git (1)/hooks/update.sample
+#	new file:   .git (1)/index.lock
+#	new file:   .git (1)/info/desktop.ini
+#	new file:   .git (1)/info/exclude
+#	new file:   .git (1)/objects/20/4728a6e46cdd7c2db9ab71a877b3adf31279fa
+#	new file:   .git (1)/objects/20/desktop.ini
+#	new file:   .git (1)/objects/26/78aa42b6f888f8de7570b8b7472a5a0a4615c0
+#	new file:   .git (1)/objects/26/desktop.ini
+#	new file:   .git (1)/objects/28/14320066eec0790de0cd443f3e17611f47da5a
+#	new file:   .git (1)/objects/28/desktop.ini
+#	new file:   .git (1)/objects/2a/b1dabcb6589e6a4e2cb3812f84e8bbcab2ca80
+#	new file:   .git (1)/objects/2a/desktop.ini
+#	new file:   .git (1)/objects/30/desktop.ini
+#	new file:   .git (1)/objects/30/f9273654b1902cf84c4e6d3e65974c48cd7c02
+#	new file:   .git (1)/objects/3b/9004c9f78057a277342cd6e9ccca86749315ae
+#	new file:   .git (1)/objects/3b/desktop.ini
+#	new file:   .git (1)/objects/3f/949c9ecd7426d9e6492295e51934d6dc8a4d1e
+#	new file:   .git (1)/objects/3f/desktop.ini
+#	new file:   .git (1)/objects/41/9872ec0757845eeb3ece6dbb212498f4a99265
+#	new file:   .git (1)/objects/41/desktop.ini
+#	new file:   .git (1)/objects/42/cc39dbe1b38901d3eb8a60cc3cfe50bdfc2fac
+#	new file:   .git (1)/objects/42/desktop.ini
+#	new file:   .git (1)/objects/47/b72094e2b574f7506ffedd9107038290e3d46d
+#	new file:   .git (1)/objects/47/desktop.ini
+#	new file:   .git (1)/objects/49/245f93911756a5076cb771e469c1d4253e157f
+#	new file:   .git (1)/objects/49/d99ee38ca2d95c16315d12b8aab63f55e7afa9
+#	new file:   .git (1)/objects/49/desktop.ini
+#	new file:   .git (1)/objects/4d/1542b89d30b26bbf0c625f7b9ff23cd6a392c5
+#	new file:   .git (1)/objects/4d/desktop.ini
+#	new file:   .git (1)/objects/50/ab10f7cddf6a7c8aaa25c3dcf5a7e2641fd9c5
+#	new file:   .git (1)/objects/50/desktop.ini
+#	new file:   .git (1)/objects/51/bd8ec902225fbea6621c67a74d6c800350c124
+#	new file:   .git (1)/objects/51/desktop.ini
+#	new file:   .git (1)/objects/58/36a79e9ce267968503ece2d7d75ccbfb76d448
+#	new file:   .git (1)/objects/58/46ac2fdf6753276f1cd35a1fdd3843e218d551
+#	new file:   .git (1)/objects/58/desktop.ini
+#	new file:   .git (1)/objects/5a/desktop.ini
+#	new file:   .git (1)/objects/5a/fe2203cb04de021a929551dd18ba7131d1eb02
+#	new file:   .git (1)/objects/5d/081e5a3eb63ca62e219f638c6caade648532d4
+#	new file:   .git (1)/objects/5d/desktop.ini
+#	new file:   .git (1)/objects/63/99fbbc5c7dbd24506cfe3a27c50987537b40fb
+#	new file:   .git (1)/objects/63/desktop.ini
+#	new file:   .git (1)/objects/65/79aaff421a417d2addc4c30c9debe2861e25ca
+#	new file:   .git (1)/objects/65/desktop.ini
+#	new file:   .git (1)/objects/66/53f9e75298165b915274b9c043e6d9af82c751
+#	new file:   .git (1)/objects/66/desktop.ini
+#	new file:   .git (1)/objects/67/b1f96780ac83096696b98511a486fcbcea59e7
+#	new file:   .git (1)/objects/67/desktop.ini
+#	new file:   .git (1)/objects/6a/0261aa01ce3623900d247544d970cab9c0544c
+#	new file:   .git (1)/objects/6a/desktop.ini
+#	new file:   .git (1)/objects/71/910bd1fb1f31a494644218cff8067403eb6254
+#	new file:   .git (1)/objects/71/desktop.ini
+#	new file:   .git (1)/objects/72/9ae29e5d755941db095a4ed1b7772f39ad28d5
+#	new file:   .git (1)/objects/72/desktop.ini
+#	new file:   .git (1)/objects/75/desktop.ini
+#	new file:   .git (1)/objects/75/e667161e0d2b51126195809b25f8379b83b8a0
+#	new file:   .git (1)/objects/76/547ff20d73ee9c6d7cea7e167357c87af408ce
+#	new file:   .git (1)/objects/76/desktop.ini
+#	new file:   .git (1)/objects/7b/32f768d7773ac32a691fdc855ce87773f4fc6a
+#	new file:   .git (1)/objects/7b/desktop.ini
+#	new file:   .git (1)/objects/7f/dbeecfca7070656f7361a4f8501c7390b02834
+#	new file:   .git (1)/objects/7f/desktop.ini
+#	new file:   .git (1)/objects/83/b568b5223af706a4d33bed907996cf374082a0
+#	new file:   .git (1)/objects/83/desktop.ini
+#	new file:   .git (1)/objects/86/b373a3c9fe6fbb029eb0dfde0ef5d835e2fee1
+#	new file:   .git (1)/objects/86/desktop.ini
+#	new file:   .git (1)/objects/8b/12fe84af05e08612f611753a66b282ca1c2cb3
+#	new file:   .git (1)/objects/8b/desktop.ini
+#	new file:   .git (1)/objects/8d/976cd259e8bb5769d4c67f1b23577c346b8a3d
+#	new file:   .git (1)/objects/8d/desktop.ini
+#	new file:   .git (1)/objects/94/a9b0aaac07bf52cc9e72c2f2a9abc507feba44
+#	new file:   .git (1)/objects/94/desktop.ini
+#	new file:   .git (1)/objects/a2/5b0c05436943dd93e7c97ed9975c0ecc6fcb74
+#	new file:   .git (1)/objects/a2/6761276c44df8bb51614c4934806e8693c6754
+#	new file:   .git (1)/objects/a2/desktop.ini
+#	new file:   .git (1)/objects/a5/65f79eeaf29ccc7f21176589358444c5868b85
+#	new file:   .git (1)/objects/a5/desktop.ini
+#	new file:   .git (1)/objects/a6/806808a6faa61b4dacf11403de34ba7a2fc962
+#	new file:   .git (1)/objects/a6/desktop.ini
+#	new file:   .git (1)/objects/ad/2a225278e603cd930a74b40a04e60c06c1fa65
+#	new file:   .git (1)/objects/ad/desktop.ini
+#	new file:   .git (1)/objects/c4/5a85f898227f3c4e075a39418f123decdb04a8
+#	new file:   .git (1)/objects/c4/5bbb450a4b803dff5cdf2a2912a8253f539525
+#	new file:   .git (1)/objects/c4/desktop.ini
+#	new file:   .git (1)/objects/c5/d6fd51aab51d85f0a3f731ba2f07de6ef59550
+#	new file:   .git (1)/objects/c5/desktop.ini
+#	new file:   .git (1)/objects/d6/desktop.ini
+#	new file:   .git (1)/objects/d6/e7dd0292eb87ebb5e4166e2c8d627487062e6f
+#	new file:   .git (1)/objects/d9/desktop.ini
+#	new file:   .git (1)/objects/d9/e2b636fa45e0ac132aa6ad2bf381214a715909
+#	new file:   .git (1)/objects/da/5751e17e898ce7b92a63926a1003e03ae09820
+#	new file:   .git (1)/objects/da/desktop.ini
+#	new file:   .git (1)/objects/dd/b35b48743634ba114f2777fc7d5708eaa81ed6
+#	new file:   .git (1)/objects/dd/desktop.ini
+#	new file:   .git (1)/objects/desktop.ini
+#	new file:   .git (1)/objects/e2/5753bfe44c1c8f289df91575cd498f90e20ac9
+#	new file:   .git (1)/objects/e2/desktop.ini
+#	new file:   .git (1)/objects/e5/1e9736b139330c07433f372ae58d0605eaa53c
+#	new file:   .git (1)/objects/e5/desktop.ini
+#	new file:   .git (1)/objects/e6/2eb55b47f839aa77876f16ab47a6fc5df3ced7
+#	new file:   .git (1)/objects/e6/desktop.ini
+#	new file:   .git (1)/objects/e7/06239a26f055c0810bfd3bd39486de00caa199
+#	new file:   .git (1)/objects/e7/desktop.ini
+#	new file:   .git (1)/objects/eb/47bcfee5ca93ccd9b2c4a48b48f38add6fccdd
+#	new file:   .git (1)/objects/eb/desktop.ini
+#	new file:   .git (1)/objects/ed/bb61e4562b7081e090f2b1b5b15805036856d8
+#	new file:   .git (1)/objects/ed/desktop.ini
+#	new file:   .git (1)/objects/f0/7320bd66e95d6dd3b79aa5517d3f2edd376496
+#	new file:   .git (1)/objects/f0/desktop.ini
+#	new file:   .git (1)/objects/f2/7e8d0a8e06ea1d8cfb9ba6670cd8a8eccf1bc7
+#	new file:   .git (1)/objects/f2/desktop.ini
+#	new file:   .git (1)/objects/f4/764c8eba13163f9504fd010f5263a2c01b134b
+#	new file:   .git (1)/objects/f4/8e0ac0285655df272eb3285d8f989fb21851ac
+#	new file:   .git (1)/objects/f4/desktop.ini
+#	new file:   .git (1)/objects/f4/e5d6543cdc68213be930b6dacaf78a1d300725
+#	new file:   .git (1)/objects/info/desktop.ini
+#	new file:   .git (1)/objects/pack/desktop.ini
+#	new file:   .git (1)/refs/desktop.ini
+#	new file:   .git (1)/refs/heads/desktop.ini
+#	new file:   .git (1)/refs/tags/desktop.ini
+#	new file:   contacto.html
+#	new file:   css/desktop.ini
+#	new file:   css/estiloscontacto.css
+#	new file:   css/estilosinicio.css
+#	new file:   css/estilosproducto.css
+#	new file:   css/normalize.css
+#	new file:   desktop.ini
+#	new file:   index.html
+#	new file:   inicio.html
+#	new file:   js/carruselinicio.js
+#	new file:   js/desktop.ini
+#	new file:   js/producto.js
+#	new file:   js/prueba.js
+#	new file:   producto.html
+#	new file:   recursos/Imagenes/Jabon lavanderia.jpeg
+#	new file:   recursos/Imagenes/Lavaplatos.jpg
+#	new file:   recursos/Imagenes/Limpieza3.png
+#	new file:   recursos/Imagenes/Satisfied-Customers-removebg-preview.png
+#	new file:   "recursos/Imagenes/Sin t\303\255tulo.jpg"
+#	new file:   "recursos/Imagenes/Sin t\303\255tulo2.jpg"
+#	new file:   "recursos/Imagenes/Sin t\303\255tulo3.jpg"
+#	new file:   "recursos/Imagenes/Sin t\303\255tulo4.jpg"
+#	new file:   recursos/Imagenes/antibacterial.jpeg
+#	new file:   recursos/Imagenes/bcv.jpeg
+#	new file:   recursos/Imagenes/cera blanca.jpeg
+#	new file:   recursos/Imagenes/clarificante.jpeg
+#	new file:   recursos/Imagenes/cloro.jpeg
+#	new file:   recursos/Imagenes/desengrasante.jpeg
+#	new file:   recursos/Imagenes/desinfectante.jpeg
+#	new file:   recursos/Imagenes/desktop.ini
+#	new file:   recursos/Imagenes/icono atomo.png
+#	new file:   recursos/Imagenes/icono transporte.png
+#	new file:   recursos/Imagenes/iconofabrica.jpeg
+#	new file:   recursos/Imagenes/iconofacebook.jpeg
+#	new file:   recursos/Imagenes/iconoinstagram.png
+#	new file:   recursos/Imagenes/iconowhatsapp.jpeg
+#	new file:   recursos/Imagenes/limpiador de pocetas.jpeg
+#	new file:   recursos/Imagenes/limpieza2.png
+#	new file:   recursos/Imagenes/limpieza21.png
+#	new file:   recursos/Imagenes/limpieza3.jpg
+#	new file:   recursos/Imagenes/logo.png
+#	new file:   recursos/Imagenes/oficinalimpieza.jpeg
+#	new file:   recursos/Imagenes/sello satisfaccion.png
+#	new file:   recursos/Imagenes/sello_venezolano-removebg-preview.png
+#	new file:   recursos/Imagenes/suavizante.jpeg
+#	new file:   recursos/Imagenes/tienda virtual.jpeg
+#	new file:   recursos/desktop.ini
+#	new file:   recursos/maquetacion/desktop.ini
+#	new file:   recursos/maquetacion/inicio.png
+#	new file:   tienda.html
+#
